@@ -1,6 +1,7 @@
-#Welcome
-This will get you all the files that are rquired to run Fortnite Time Machine
+# Welcome
+This will get you all the files that are required to run Fortnite Time Machine
 Please follow the intructions below to run Fortnite Time Machine - cr Cyuubi
 
+This is probaly your best chance of success to using Fortnite Time Machine because Lawin is forcing you to be in his Discord witch is silly and annoying so this will ~~Completely ruin that!~~ :)
 
-* First make sure you have python installed, alternatively you could use Repl.it or Glich and extract the files. Run ``Downloader.py``
+* Download this repositro
