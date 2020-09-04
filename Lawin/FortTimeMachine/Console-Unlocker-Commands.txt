@@ -1,0 +1,91 @@
+Fortnite Summon/Destroy Commands (findings conducted by pivotman319#0573):
+	StW Only:
+		List of spawnable StW enemies
+		(Only available thru gamemodes Outpost (AFortGameModeOutpost), Zone (AFortGameModeZone))
+		
+		summon HuskPawn_C
+		summon FlingerPawn_C
+		summon SmasherPawn_C
+		summon SmasherPawn_Onboarding_C (Note: weaker variant of smasher used only for FarmsteadFort tutorial)
+		summon TakerPawn_C
+
+		List of spawnable StW NPCs (only available in gamemode Zone (AFortGameModeZone))
+		Defenders:
+			summon Defender_C (invisible)
+			summon Defender_Onboarding_Lenny_C (spawns, but does not have a SkeletalMesh associated. Also logs due to missing defender modifiers)
+			summon Defender_AssualtRifle_C (spawns, but is temporarily invisible and despawns via respawn drone after a few seconds of idle)
+			summon Survivor_C (Generic survivor, has a randomly picked model)
+		
+		Gadgets:
+			summon B_BGA_SentryGun_C (Cut sentry gun gadget, only ever seen in onboarding. Does not work when spawned.)
+			summon B_BGA_OB_SentryGun_C (Same as above, the version used specifically for the onboarding map)
+			
+		Misc.
+			summon BP_SpecialChest_Parent_C (Spawns a generic level 1 chest)
+			summon Tiered_Chest_6_Parent_C (Same as above, but with a placeholder model)
+			summon BluGlo_Node_C (Creates BluGlo item pickups)
+			summon BluGlo_Node_Onboarding_Child_C (Completely identical to above)
+			
+			summon BP_AtlasStorm_C (Creates the StW storm we all know and love)
+			summon BP_AtlasStorm_C (Same as above but with the eye moved a bit off)
+
+			summon Tiered_Resource_Metal_Child_C
+			summon Tiered_Resource_Stone_Child_C
+			summon Tiered_Resource_Wood_Parent_C
+		
+	Spawning building structures:
+		summon PBWA_(Material)(Level)_(Structure)_C
+		summon PBWA_BG_(Structure)_C (BG = building guide, not upgradeable)
+		
+		Usage:
+			Material: W (Wood), S (Stone), M (Metal)
+			Level: Range of 1-3
+			Structure: A defined structure type. Refer to the list of structures below.
+		
+		List of structures:
+			Archway
+			ArchwayLarge
+			ArchwayLargeSupport
+			BalconyD
+			BalconyI
+			BalconyO
+			BalconyS
+			Brace
+			DoorC
+			DoorS
+			DoorSide
+			Floor
+			HalfWallDoor
+			HalfWallDoorS
+			HalfWallHalf
+			HalfWallS
+			Pillar
+			QuarterWallHalf
+			QuarterWallS
+			RoofC
+			RoofD
+			RoofI
+			RoofO
+			RoofS
+			RoofWall
+			Solid
+			StairF
+			StairR
+			StairT
+			StairW
+			WindowC
+			Windows
+			WindowSide
+	
+	Universal:
+		summon BP_VictoryDrone_C (Summons a respawn drone, does not actually despawn)
+		summon TODM_A_C (Summons a sky.)
+		summon BP_Hex_CriticalMission_C (Summons a world map tile)
+		(Note: Multiple variants for TODM_A_C exist; TODM_A_Child_FtS01_C, TODM_A_Child_PlankertonOP_C)
+		
+		destroyall (BlueprintName)_C
+		
+		Usage:
+			Similar to the summon command, except it destroys all instances of the specific blueprint found in this level.
+			
+			Example: destroyall Survivor_C
