@@ -25,8 +25,7 @@ This is probaly your best chance of success to using Fortnite Time Machine becau
 **The next section is the install process** when I say "Install for example ``GameVersion``" I am talking about the things defined in #Download
 # Install
 * Install ``GameVersion``
-* Install ``Dotnet-Runtime-3.1.5`` 
-* Install ``GameVersion``
+* Install ``Dotnet-Runtime-3.1.5``
 
 # Next
 Drag ``Launcher.bat`` into ``\Fortnite\FortniteGame\Binaries\Win64``
