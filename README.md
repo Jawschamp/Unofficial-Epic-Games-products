@@ -1,7 +1,8 @@
 # Welcome
 This will get you all the files that are required to run Fortnite Time Machine
 Please follow the intructions below to run Fortnite Time Machine - cr Cyuubi
-
+## Table of Contents
+- [Commands](https://github.com/Jawschamp/FortniteLawinMachine/blob/master/Commands.txt)
 This is probaly your best chance of success to using Fortnite Time Machine because Lawin is forcing you to be in his Discord which is silly and annoying so this will ~~Completely "bypass" that!~~ unless of course you need help :)
 
 # Read
