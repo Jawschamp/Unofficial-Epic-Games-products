@@ -53,4 +53,4 @@ If done right you'll see
 
 Finnaly Open the console ``~`` and type ``startaircraft``
 
-# If this worked then Great, if not Then Join Lawin's Server [I will post a link once I have an invite link]
+# If this worked then Great, if not Then Join Lawin's Server [https://discord.gg/a49tN7e] 
