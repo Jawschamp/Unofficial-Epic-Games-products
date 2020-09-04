@@ -1,0 +1,39 @@
+***THIS DOES NOT REQUIRE FortTimeMachine at all***
+Additional Commands
+stat FPS: Draws FPS values on the screen.
+stat levels: Draws information about the current loaded umap.
+stat unit: Draws independent value for game, draw, and GPU tick rates.
+STARTAIRCRAFT: Starts the bus and starts the storm patterns, and will act as a real game.
+AIRCRAFTUNLOCK: Unlocks the bus to allow players to jump from it.
+STARTSAFEZONE: Creates and starts the safe zone.
+SKIPSHRINKSAFEZONE: Skips the current safe zone movement.
+STARTSHRINKSAFEZONE: Starts the storms shrinking phase.
+PAUSESAFEZONE: Pauses the current safe zone movement,
+UNPAUSEWARMUP: Skips spawn island bus wait.
+fov (number): Change the fov to a number above the standard 80
+
+
+r.MotionBlurQuality (Controls Motion Blur)  (0-5) 0 = Motion Blur Off / 5 = Motion Blur Max 
+r.BloomQuality (Controls Bloom)  (0-5) 0 = Off / 5 = Bloom Max
+r.DepthOfFieldQuality (Controls Depth Of Field)  (0-5) 0 = Off / 5 = DOF Max
+r.EyeAdaptationQuality (<=0 For Brightness Below The Average Amount The Game Allows You To Use) / 3 Max Brightness
+sg.ShadowQuality (Controls Shadows)  (0-5) 0 = Off / 5 = Max
+sg.TextureQuality (Controls Texture Quality) (0-5) 0 = Worst Possible Textures / 4 = Best Texture Quality
+r.SetRes  (1280x720,1920x1080,3840x2470,950x565,1000x1000,1440x1080) Choose Any Resolution You Need
+r.AmbientOcclusionRadiusScale (This Increases Or Decreases The SSAO) 0 = Off / >1 Biggest 
+r.AOQuality (Increases AO) 0 = Off / 2 = Highest
+r.PostProcessAAQuality (Increases FXAA) 0 = Off / 6 = Max
+
+Interesting Commands:
+r.ScreenPercentage (>0 Is The lowest Amount Of Pixels On Screen) / 100 = Max Screen Percentage (You Can Go Over 100 But The Performance Will Reduce Drastically Not Recommended To Go Over 200)
+r.ViewDistanceScale (can be used in 0.0 / 0.00 / 0.000) (Default Distance Of Where You Can See Objects Is 1 But You Can Change This By Doing 0.50 0.25 0.10 0.010 And So On Its More Of An Experimental Command)
+r.LandscapeLODBias (This Command Completely Breaks The Game And Moves Objects Houses Trees Roads And Everything To Where They Arent Supposed To Be) 1 = Default / 10 = Insane / 100 = Max
+
+EXAMPLE: (Open Season 1 With The Unlocker And Press The Command Key Next To The Number 1 On Your Keyboard)
+r.MotionBlurQuality 0
+r.MotionBlurQuality 5
+(Be Aware You Can Use Numbers In Between Too For Most Commands) 
+r.MotionBlurQuality 0 / r.MotionBlurQuality 1 / r.MotionBlurQuality 2 / r.MotionBlurQuality 3 / r.MotionBlurQuality 4 / r.MotionBlurQuality 5 /
+r.BloomQuality 0 / r.BloomQuality 1 / r.BloomQuality 2 / r.BloomQuality 3 / r.BloomQuality 4 / r.BloomQuality 5 /
+
+(Credits to @AperatureSketch!)
