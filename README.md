@@ -28,7 +28,7 @@ Drag ``Launcher.bat`` into ``\Fortnite\FortniteGame\Binaries\Win64``
 
 # Launch
 * Open ``LawinServer.exe`` If it says Proxy lisening on port 9999 then your good so far
-* Open ``Launcher.bat``and Fortnite should start up
+* Open ``Launcher.bat`` and Fortnite should start up
 
 # Login
 * Put anything you want Email: ``sadsafdsejfgkdshjg``, Password: ``sdafkjsdfglsdjg`` just press login
