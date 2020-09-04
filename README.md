@@ -1,4 +1,4 @@
-# FortniteLawinMachine
+# FortnitePrivateServersGuide
 
 This will be a guide on how to set up cool Private Servers for Fortnite!!!
 
