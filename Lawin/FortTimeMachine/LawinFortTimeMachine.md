@@ -24,7 +24,7 @@ This is probaly your best chance of success to using Fortnite Time Machine becau
 
 **The next section is the install process** when I say "Install for example ``GameVersion``" I am talking about the things defined in #Download
 # Install
-* Install ``GameVersion``
+* Install ``GameVersion`` (**If you need help with installing ``GameVersion`` read this [Fortnite_Installer.md](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Fortnite_Installer.md)**)
 * Install ``Dotnet-Runtime-3.1.5``
 
 # Next
@@ -41,7 +41,7 @@ Drag ``Launcher.bat`` into ``\Fortnite\FortniteGame\Binaries\Win64``
 * Open the folder I said to name to [**U Setup**] open ``UuuClient`` Where is says Process to inject to: click ``Select`` and choose ``FortniteClient-Win64-Shipping.exe`` once you've selected that press ``select`` again to confirm then click ``Inject DLL``
 
 ![If you did it right you should see this in the top left corner](https://media.discordapp.net/attachments/464882018136621056/751288889926352966/unknown.png)
-* Go back to Fortnite press ``~`` (Shift + ` (Better known as the key left of the **1** on your keyboard)) 
+* Go back to Fortnite press ``~`` (Shift + ` (Better known as the key left of the **1** on your keyboard))
 If done right you'll see 
 
 ![Console](https://media.discordapp.net/attachments/464882018136621056/751290350194393098/unknown.png)
