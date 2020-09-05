@@ -5,7 +5,7 @@ Please follow the intructions below to run Fortnite Time Machine - cr Cyuubi
 ## Table of Contents
 - [Commands](https://github.com/Jawschamp/FortniteLawinMachine/blob/master/Commands.txt)
 
-This is probaly your best chance of success to using Fortnite Time Machine because Lawin is forcing you to be in his Discord which is silly and annoying so this will ~~Completely "bypass" that!~~ unless of course you need help :)
+This is probaly your best chance of success to using Fortnite Time Machine because Lawin is forcing you to be in his Discord to download all this which can be very confusing. 
 
 # Read
 **You need to follow the order in which I provide, if you do not, you will get lost**
@@ -46,7 +46,7 @@ If done right you'll see
 
 ![Console](https://media.discordapp.net/attachments/464882018136621056/751290350194393098/unknown.png)
 
-* Type ``open athena_terrain?game=athena`` after that Type ``summon PlayerPawn_Athena_C`` then go back to ``UuuClient`` Do the same steps as before (Where is says Process to inject to: click ``Select`` and choose ``FortniteClient-Win64-Shipping.exe``, **NEW** once you've selected that click where it says ``Browse`` **Image below will help you if you don't see it** Find ``FortniteTimeMachine.dll`` then you'll be in
+* Type ``open athena_terrain?game=athena`` after that Type ``summon PlayerPawn_Athena_C`` then go back to ``UuuClient`` Do the same steps as before (Where is says Process to inject to: click ``Select`` and choose ``FortniteClient-Win64-Shipping.exe``, **NEW** once you've selected that click where it says ``Browse`` **Image below will help you if you don't see it** Find ``FortniteTimeMachine.dll`` and inject then you'll be in!
 
 ![Browse](https://cdn.discordapp.com/attachments/464882018136621056/751292104218640496/unknown.png) 
 ![Preview of in-game](https://media.discordapp.net/attachments/464882018136621056/751295635709362256/unknown.png)
