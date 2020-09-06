@@ -15,6 +15,7 @@ These are all the client people saved *so far*
 | Fortnite Season 9 (Client 9.40) | https://drive.google.com/open?id=1znhiKqXedCv8WbDkyYvzZba9RWjqnYH0 |
 | Fortnite Season 9 (Client 9.41) Download Both | https://drive.google.com/open?id=1KXkF7X9P_m-oKFTWwqZq_Lx914yEXbhZ + https://drive.google.com/open?id=1qe1xs21fZx6q8QZPRdCAhBYP5CFectWQ |
 | Fortnite Season 10 (Client 10.40) | https://drive.google.com/file/d/18szZJLOw95RqveEZIN5hun4O5g_LNV5_/view?usp=sharing |
+| Fortnite Season 12 (Client 12.41) | https://mega.nz/file/nKxi2KLb#fU0iufcXX3mZzNaoaky7uY0kUU6wfTvRPDQPp6kS9q0 |
 | Fortnite Season 12 (Client 12.61) | https://mega.nz/file/O1d1QaYJ#AbLx9kzEd6o6qB5_qDtfBz0NZ_gPIMzI8EOz4VvMRz4 |
 
 If you have one make a pull request with a link or contact me on Discord - Jaws#8210
