@@ -29,8 +29,11 @@ But I will just go through this again for the **Nubs**
 * Install ``Dotnet-Runtime-3.1.5``
 
 # Next
-Drag ``Launcher.bat`` into ``\Fortnite\FortniteGame\Binaries\Win64``
+* **Must have Fortnite already installed** Drag ``Launcher.bat`` into ``\Fortnite\FortniteGame\Binaries\Win64`` look at the image below for help
 
+![Help](https://media.discordapp.net/attachments/753361298674286734/753362682828161206/unknown.png?width=1251&height=677)
+
+![Help](https://cdn.discordapp.com/attachments/339138731501944842/753363041281769502/unknown.png)
 # Launch
 * Open ``LawinServer.exe`` If it says Proxy lisening on port 9999 then your good so far
 * Open ``Launcher.bat`` and Fortnite should start up
