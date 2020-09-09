@@ -27,7 +27,7 @@ But I will just go through this again for the **Nubs**
 * Extract the content inside **UUU305.zip** into a folder and name it [**U Setup**]
 
 # Install
-* Install ``GameVersion`` (**If you need help with installing ``GameVersion`` for more help look at [Fortnite_Installer.md](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Fortnite_Installer.md)
+* Install ``GameVersion`` (If you need help with installing ``GameVersion`` for more help look at [Fortnite_Installer.md](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Fortnite_Installer.md)
 * Install ``Dotnet-Runtime-3.1.5``
 
 # Next
