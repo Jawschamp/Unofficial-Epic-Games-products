@@ -24,5 +24,6 @@ In this Guide you'll find out how to setup [Cosmetic Private Servers] as well as
 - [Version-Downloads](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Version-Downloads.md)
 - [Universal Unreal Engine 4 Unlocker commands](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/UUUClient/Console-Unlocker.txt)
 - [Launchers](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Launchers.md)
+- [Pak Modifier](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Paks)
 
 
