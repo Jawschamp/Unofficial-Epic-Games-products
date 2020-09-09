@@ -1,5 +1,9 @@
 #  Polaris Setup guide
 
+Credit https://discord.com/invite/gp56gvd
+
+Note: joining that Discord server does not mean they will you help you set this up read below
+
 **Since the Polaris Team can't tell you how to setup this up for risk of "distributing" violation of Epic's Fortnite Licence Agreement I will show you how to do it!** 
 
 So most of this will be the same as [Lawin Setup](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Lawin) look at that too
