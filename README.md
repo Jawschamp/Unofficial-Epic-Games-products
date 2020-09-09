@@ -5,6 +5,9 @@ In this Guide you'll find out how to setup [Cosmetic Private Servers] as well as
 
 ## Table of Contents
 - [Product]()
+  - [Polaris](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Polaris/README.md)
+    - [Mods]
+      - [Pak Modifier](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Paks)
   - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md)
     - [Website](https://ezfn.net)
   - [Neonitev2](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/NeoNite/README.md)
