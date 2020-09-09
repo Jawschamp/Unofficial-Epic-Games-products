@@ -20,7 +20,7 @@ But I will just go through this again for the **Nubs**
 * **Dotnet-Runtime-3.1.5** [https://cdn.discordapp.com/attachments/679772336177545300/729408321769046026/dotnet-runtime-3.1.5-win-x64.exe]
 * **any DLL injector is fine but this works too UUU305.zip** [https://mega.nz/file/kEhTSBDR#cg2H5ikROO9l-M7rf7n9VtONw5u5OktUYtF5hp6C-4o]
 * **7Zip, WinRar** any of those are fine to extract ``UUU305.zip``
-* **Polaris** [Download DLL](https://github.com/Jawschamp/FortnitePrivateServersGuide/raw/master/Polaris/Polaris.zip/Polaris.dll
+* **Polaris** [Download DLL](https://github.com/Jawschamp/FortnitePrivateServersGuide/raw/master/Polaris/Polaris.zip/Polaris.dll)
 
 # Extract
 * Extract the content inside **Polaris [Download DLL]** into a folder and name it [**Polaris**]
