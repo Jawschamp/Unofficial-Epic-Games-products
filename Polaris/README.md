@@ -1,5 +1,7 @@
 #  Polaris Setup guide
 
+I've had people ask me if this is a virus as I said in https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/LawinFortTimeMachine.md run this through virustotal.com
+
 Credit https://discord.com/invite/gp56gvd
 
 Note: joining that Discord server does not mean they will you help you set this up read below
