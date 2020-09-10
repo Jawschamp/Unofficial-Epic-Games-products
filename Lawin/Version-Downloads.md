@@ -2,7 +2,7 @@ These are all the client people saved *so far*
 | Client | Link |
 | - | - |
 | Fortnite Season 0 (Client 1.7.2) | https://drive.google.com/file/d/1VbLXfEmaq_zeQlQ3jXZFOo2U8P5kxWxG/view?usp=sharing |
-| Fortnite Season 1 (Client 1.8) | https://drive.google.com/drive/folders/1e_yc76fATTxwNb69iixPIBpNrsmG7A4K |
+| Fortnite Season 1 (Client 1.8) | https://mega.nz/file/AYgD2LLK#wwlhURHmYuL7rVRPrkgnjFs7DONvlZxJRW_RuacO5zE |
 | Fortnite Season 2 (Client 2.4.2) | https://drive.google.com/file/d/1phikX5nwXT-H-5iQTpmEMrgknjBePLO4 |
 | Fortnite Season 3 (Client 3.2.0) | https://drive.google.com/drive/folders/1PRUCji2qNy1EqfYNs_RAYQCfiwB1XJck |
 | Fortnite Season 4 (Client 4.2.0) | https://drive.google.com/file/d/1QGkxBI5tDqU44z86HlbVRnZKTW_EqhTe |
