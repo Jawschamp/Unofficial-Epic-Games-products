@@ -15,6 +15,9 @@ But I will just go through this again for the **Nubs**
 * **GameVersion** [Fortnite Season 1 (Client 1.8): https://drive.google.com/drive/folders/1e_yc76fATTxwNb69iixPIBpNrsmG7A4K] for more help look at [Fortnite_Installer.md](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Fortnite_Installer.md) **Make sure to download all .bin files** or you'll get the image below
 
 ![Bin Error](https://media.discordapp.net/attachments/251971777486520320/753363874790768730/VGtYuzC3.png?width=1441&height=432)
+
+if you download the ZIP and they are not extracted you'll get the error below
+![Extraction Error](https://cdn.discordapp.com/attachments/753285309877190718/753664898491351260/unknown.png)
 * **Launcher** [Season 1, 2, 3, 4, 5]: https://drive.google.com/open?id=1jjRBNCHozE0ABBErKPOFEGYoazdpEnzQ for more help look at [Launchers.md](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Launchers.md)
 * **LawinServer.exe** [https://github.com/PsychoPast/LawinServer/releases] Download the most recent version (The Very Top One)
 * **Dotnet-Runtime-3.1.5** [https://cdn.discordapp.com/attachments/679772336177545300/729408321769046026/dotnet-runtime-3.1.5-win-x64.exe]
