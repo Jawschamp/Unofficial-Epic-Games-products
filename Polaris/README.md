@@ -22,13 +22,13 @@ if you download the ZIP and they are not extracted you'll get the error below
 * **Launcher** [Season 1, 2, 3, 4, 5]: https://drive.google.com/open?id=1jjRBNCHozE0ABBErKPOFEGYoazdpEnzQ for more help look at [Launchers.md](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Launchers.md)
 * **LawinServer.exe** [https://github.com/PsychoPast/LawinServer/releases] Download the most recent version (The Very Top One)
 * **Dotnet-Runtime-3.1.5** [https://cdn.discordapp.com/attachments/679772336177545300/729408321769046026/dotnet-runtime-3.1.5-win-x64.exe]
-* **any DLL injector is fine but this works too IGCSInjectorUI_v103.zip** [https://github.com/FransBouma/InjectableGenericCameraSystem/releases/download/IGCSInjectorUI_103/IGCSInjectorUI_v103.zip]
+* **Any DLL injector is fine but this works too IGCSInjectorUI_v103.zip** [https://github.com/FransBouma/InjectableGenericCameraSystem/releases/download/IGCSInjectorUI_103/IGCSInjectorUI_v103.zip]
 * **7Zip, WinRar** any of those are fine to extract ``IGCSInjectorUI_v103.zip``
 * **Polaris** [Download DLL](https://github.com/Jawschamp/FortnitePrivateServersGuide/raw/master/Polaris/Polaris.zip/Polaris.dll)
 
 # Extract
 * Extract the content inside **Polaris [Download DLL]** into a folder and name it [**Polaris**]
-* Extract the content inside **IGCSInjectorUI_v103.zip** into a folder and name it [**U Setup**]
+* Extract the content inside **IGCSInjectorUI_v103.zip** into a folder and name it [**DLL Injector**]
 
 # Install
 * Install ``GameVersion`` (If you need help with installing ``GameVersion`` for more help look at [Fortnite_Installer.md](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Fortnite_Installer.md)
