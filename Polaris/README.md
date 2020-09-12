@@ -49,7 +49,7 @@ if you download the ZIP and they are not extracted you'll get the error below
 * Put anything you want Email: ``sadsafdsejfgkdshjg@gmail.com``, Password: ``sdafkjsdfglsdjg`` just press login
 
 # Inject DLL
-* Open the folder I said to name to [**U Setup**] open ``IGCSInjectorUI.exe`` Where it says "Process to inject to": click ``Select`` and choose ``FortniteClient-Win64-Shipping.exe`` once you've selected that press ``select`` again to confirm then where it says "DLL to inject": click ``Browse`` select ``Polaris.dll`` and click ``Inject DLL`` once you see the image below in game press play
+* Open the folder I said to name to [**DLL Injector**] open ``IGCSInjectorUI.exe`` Where it says "Process to inject to": click ``Select`` and choose ``FortniteClient-Win64-Shipping.exe`` once you've selected that press ``select`` again to confirm then where it says "DLL to inject": click ``Browse`` select ``Polaris.dll`` and click ``Inject DLL`` once you see the image below in game press play
 
 ![See it?](https://cdn.discordapp.com/attachments/339138731501944842/753335147725586553/unknown.png)
 
