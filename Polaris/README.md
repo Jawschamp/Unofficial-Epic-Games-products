@@ -24,6 +24,7 @@ if you download the ZIP and they are not extracted you'll get the error below
 * **Dotnet-Runtime-3.1.5** [https://cdn.discordapp.com/attachments/679772336177545300/729408321769046026/dotnet-runtime-3.1.5-win-x64.exe]
 * **Any DLL injector is fine but this works too IGCSInjectorUI_v103.zip** [https://github.com/FransBouma/InjectableGenericCameraSystem/releases/download/IGCSInjectorUI_103/IGCSInjectorUI_v103.zip]
 * **7Zip, WinRar** any of those are fine to extract ``IGCSInjectorUI_v103.zip``
+* **Current Polaris DLL** [Current](https://cdn.discordapp.com/attachments/753283943989772320/756385819509522533/Polaris.zip)
 * **Polaris** [Download DLL](https://github.com/Jawschamp/FortnitePrivateServersGuide/raw/master/Polaris/Polaris.zip/Polaris.dll)
 
 # Extract
