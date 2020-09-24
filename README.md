@@ -1,6 +1,6 @@
-# FortnitePrivateServersGuide
+# Non-Official-Epic-Games-products
 
-This will be a guide on how to set up cool Private Servers for Fortnite!!!
+This will be a guide on how to set up almost any third party application that deals with Epicgames!
 In this Guide you'll find out how to setup [Cosmetic Private Servers] as well as ["In-Game Servers"], [Using past replays on old clients] and more!
 
 ## Table of Contents
