@@ -5,6 +5,7 @@ In this Guide you'll find out how to setup [Cosmetic Private Servers] as well as
 
 ## Table of Contents
 - [Product]
+  - [Legendary]()
   - [Polaris](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Polaris/README.md) **BTW I WAS BANNED FROM THAT DISCORD IF YOU HAVE DETAILS ON THE LATEST CHANGES DM ME OR MAKE A PULL REQUEST**
     - [Mods]
       - [Pak Modifier](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Paks)
