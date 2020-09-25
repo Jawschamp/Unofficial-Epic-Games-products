@@ -11,6 +11,8 @@
 # Make sure it's working
 Make sure you did it right by typing The name of the exe which is ``legendary --version`` if done right it'll say "legendary version "version you downloaded", codename "something"" if it says that your good so far
 
+# Quickstart
+* Read [Legendary Quickstart](https://github.com/derrod/legendary#quickstart)
 # Extra
 To download a specific Version of Fortnite do ``legendary install Fortnite --manifest http://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir/[ReplaceWithManifest].manifest`` to get that go to [FN-Releases](https://github.com/polynite/fn-releases/blob/master/README.md)
 
