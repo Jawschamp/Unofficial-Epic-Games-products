@@ -6,7 +6,7 @@ In this Guide you'll find out how to setup [Cosmetic Private Servers] as well as
 ## Table of Contents
 - [Product]
 - [Other Products]
-- [Legendary](https://github.com/Jawschamp/Non-Official-Epic-Games-products/blob/master/Legendary/README.md) **I WILL LIKELY TRY TO USE LEGENDARY FOR INSTALLING** FORTNITE VERSIONS NOW AS IT'S LESS SKETCHY
+- [Legendary](https://github.com/Jawschamp/Non-Official-Epic-Games-products/blob/master/Legendary/README.md) **I WILL LIKELY TRY TO USE LEGENDARY FOR INSTALLING FORTNITE VERSIONS NOW AS IT'S LESS SKETCHY**
 - [Private Servers]
   - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md)
     - [Website](https://ezfn.net)
