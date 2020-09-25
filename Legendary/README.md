@@ -5,7 +5,7 @@
 
 # Next
 * Make a folder and call it **Legend** and put it on your desktop
-* Drag everything that you just downloaded into the folder you created
+* Drag Legendary.exe into the folder you just created
 * Open Command Prompt type ``cd C:\Users\Name\Desktop\Legend``
 
 # Make sure it's working
