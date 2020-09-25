@@ -12,6 +12,8 @@ Make sure you did it right by typing The name of the exe which is ``legendary --
 
 # Quickstart
 * Read [Legendary Quickstart](https://github.com/derrod/legendary#quickstart)
+# Usage (What you can do with this)
+* [Usage](https://github.com/derrod/legendary#usage)
 # Config
 * For Configuration options [Read This](https://github.com/derrod/legendary#config-file) **NOT REQUIRED TO WORK**
 
