@@ -1,21 +1,25 @@
 # Non-Official-Epic-Games-products
 
-This will be a guide on how to set up almost any third party application that deals with Epicgames!
+This will be a guide on how to set up almost any third party application that deals with Epic Games!
 In this Guide you'll find out how to setup [Cosmetic Private Servers] as well as ["In-Game Servers"], [Using past replays on old clients] using a [Command Line Version Of The Epic Games Launcher]!
 
 ## Table of Contents
 - [Product]
-  - [Legendary](https://github.com/Jawschamp/Non-Official-Epic-Games-products/blob/master/Legendary/README.md) **I WILL LIKELY TRY TO USE LEGENDARY FOR INSTALLING FORTNITE VERSIONS NOW AS IT'S LESS SKETCHY**
+- [Other Products]
+- [Legendary](https://github.com/Jawschamp/Non-Official-Epic-Games-products/blob/master/Legendary/README.md) I WILL LIKELY TRY TO USE LEGENDARY FOR INSTALLING FORTNITE VERSIONS NOW AS IT'S LESS SKETCHY
+- [Private Servers]
+  - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md)
+    - [Website](https://ezfn.net)
+  - [Neonitev2](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/NeoNite/README.md)
   - [Polaris](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Polaris/README.md) **BTW I WAS BANNED FROM THAT DISCORD IF YOU HAVE DETAILS ON THE LATEST CHANGES DM ME OR MAKE A PULL REQUEST**
     - [Mods]
       - [Pak Modifier](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Paks)
       - [Universal Unreal Engine 4 Unlocker commands](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/UUUClient/Console-Unlocker.txt)
-  - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md)
-    - [Website](https://ezfn.net)
-  - [Neonitev2](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/NeoNite/README.md)
+
   - [FortTimeMachine.md](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/LawinFortTimeMachine.md)
     - [Mods]
       - [Universal Unreal Engine 4 Unlocker commands](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/UUUClient/Console-Unlocker.txt)
+      - [Pak Modifier](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Paks)
   - [Lawin](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Lawin)
     - [Version-Downloads](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Version-Downloads.md)
     - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
