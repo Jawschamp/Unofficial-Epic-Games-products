@@ -8,7 +8,7 @@ Note: joining that Discord server does not mean they will you help you set this 
 
 **I WAS BANNED FROM THAT DISCORD IF YOU HAVE DETAILS ON THE LATEST CHANGES OF THE DLL PLEASE DM ME OR MAKE A PULL REQUEST**
 
-**Since the Polaris Team can't tell you how to setup this up for risk of "distributing" violation of Epic's Fortnite Licence Agreement I will show you how to do it!** 
+**Since the Polaris Team can't tell you how to set this up for risk of "distributing" violation of Epic's Fortnite Licence Agreement I will show you how to do it!** 
 
 So most of this will be the same as [Lawin Setup](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Lawin) look at that too
 But I will just go through this again for the **Nubs**
