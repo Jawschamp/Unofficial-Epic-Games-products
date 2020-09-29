@@ -1,4 +1,6 @@
-# Non-Official-Epic-Games-products
+# Unofficial-Epic-Games-products
+
+# NOTE: This project is not Affiliated, Associated, Authorized, Endorsed by, or in any way officially connected with Epic Games hence the name of the project
 
 This will be a guide on how to set up almost any third party application that deals with Epic Games!
 In this Guide you'll find out how to setup [Cosmetic Private Servers] as well as ["In-Game Servers"], [Using past replays on old clients] using a [Command Line Version Of The Epic Games Launcher]!
