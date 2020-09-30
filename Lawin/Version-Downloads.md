@@ -1,4 +1,6 @@
 These are all the client people saved *so far* 
+
+**I'd suggest [checking Legendary out](https://github.com/Jawschamp/Unofficial-Epic-Games-products/blob/master/Legendary/README.md#extra) instead of having to install all these versions from Lawin but also check out [FN-Releases](https://github.com/polynite/fn-releases/blob/master/README.md) you'll see that seasons really up to Season 9 they don't have manifests's or they do but it's not consistent because no one was really looking for them that's since changed and leakers have Discord Servers full of these codes!**
 | Client | Link |
 | - | - |
 | Fortnite Season 0 (Client 1.7.2) | https://drive.google.com/file/d/1VbLXfEmaq_zeQlQ3jXZFOo2U8P5kxWxG/view?usp=sharing |
@@ -17,5 +19,6 @@ These are all the client people saved *so far*
 | Fortnite Season 10 (Client 10.40) | https://drive.google.com/file/d/18szZJLOw95RqveEZIN5hun4O5g_LNV5_/view?usp=sharing |
 | Fortnite Season 12 (Client 12.41) | https://mega.nz/file/nKxi2KLb#fU0iufcXX3mZzNaoaky7uY0kUU6wfTvRPDQPp6kS9q0 |
 | Fortnite Season 12 (Client 12.61) | https://mega.nz/file/O1d1QaYJ#AbLx9kzEd6o6qB5_qDtfBz0NZ_gPIMzI8EOz4VvMRz4 |
+| Fortnite Season 13 (Client 13.50) | https://mega.nz/file/zw4kiQKR#fZmxhVInk8tX4t-3e2LqBDTi7yJd4wvYA5pKFk44rI0 |
 
 If you have one make a pull request with a link or contact me on Discord - Jaws#8210
