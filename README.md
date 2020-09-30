@@ -17,6 +17,7 @@ In this Guide you'll find out how to setup
   - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md) **NOT READY**
     - [Website](https://ezfn.net)
   - [Neonitev2](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/NeoNite/README.md)
+- [In-Game Private Server]
   - [Polaris](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Polaris/README.md) **BTW I WAS BANNED FROM THAT DISCORD IF YOU HAVE DETAILS ON THE LATEST CHANGES DM ME OR MAKE A PULL REQUEST**
     - [Mods]
       - [Pak Modifier](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Paks)
