@@ -12,10 +12,9 @@ Make sure you did it right by typing The name of the exe which is ``legendary --
 
 # Quickstart
 * Read [Legendary Quickstart](https://github.com/derrod/legendary#quickstart)
-# Usage (What you can do with this)
-* [Usage](https://github.com/derrod/legendary#usage)
-# Config
+* For usage look at [Usage](https://github.com/derrod/legendary#usage)
 * For Configuration options [Read This](https://github.com/derrod/legendary#config-file) **NOT REQUIRED TO WORK**
+
 
 The Config file is located at ``C:\Users\Name\.config\legendary``
 
