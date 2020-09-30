@@ -2,15 +2,19 @@
 
 # NOTE: This project is not Affiliated, Associated, Authorized, Endorsed by, or in any way officially connected with Epic Games hence the name of the project
 
-This will be a guide on how to set up almost any third party application that deals with Epic Games!
-In this Guide you'll find out how to setup [Cosmetic Private Servers] as well as ["In-Game Servers"], [Using past replays on old clients] using a [Command Line Version Of The Epic Games Launcher]!
+This will be a guide on how to set up almost any third party application that deals with Epic Games or Fortnite!
+In this Guide you'll find out how to setup 
+* Cosmetic Private Servers
+* In-Game Private Server *With a Mod*
+* Using past replays on old clients
+* Using a Command Line Version Of The Epic Games Launcher
 
 ## Table of Contents
 - [Product]
 - [Other Products]
 - [Legendary](https://github.com/Jawschamp/Non-Official-Epic-Games-products/blob/master/Legendary/README.md) **I WILL LIKELY TRY TO USE LEGENDARY FOR INSTALLING FORTNITE VERSIONS NOW AS IT'S LESS SKETCHY**
 - [Private Servers]
-  - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md)
+  - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md) **NOT READY**
     - [Website](https://ezfn.net)
   - [Neonitev2](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/NeoNite/README.md)
   - [Polaris](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Polaris/README.md) **BTW I WAS BANNED FROM THAT DISCORD IF YOU HAVE DETAILS ON THE LATEST CHANGES DM ME OR MAKE A PULL REQUEST**
