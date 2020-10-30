@@ -13,4 +13,4 @@
 * Head to this exact address (127.0.0.1:5595/launcher.zip) and download that copy and paste that into your real Fortnite Folder ``Fortnite\FortniteGame\Binaries\Win64``
 
 # Start the server
-* Run ``run.bat``
+* Run ``run.bat`` If this does not work open command prompt and do ``cd PathToForniteDir`` then enter then ``start npm start``
