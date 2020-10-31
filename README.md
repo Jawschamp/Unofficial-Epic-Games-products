@@ -14,7 +14,7 @@ In this Guide you'll find out how to setup
 - [Other Products]
 - [Legendary](https://github.com/Jawschamp/Non-Official-Epic-Games-products/blob/master/Legendary/README.md) **I WILL LIKELY TRY TO USE LEGENDARY FOR INSTALLING FORTNITE VERSIONS NOW AS IT'S LESS SKETCHY**
 - [Private Servers]
-  - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md) **NOT READY**
+  - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md) **Working**
     - [Website](https://ezfn.net)
   - [Neonitev2](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/NeoNite/README.md)
 - [In-Game Private Server]
