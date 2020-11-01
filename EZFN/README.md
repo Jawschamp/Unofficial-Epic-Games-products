@@ -10,4 +10,4 @@
 Run ``FortniteLauncher.exe``
 
 # Login
-* Login with your EZFN login but after the ``@`` put ``ezfn.net`` for e.g "Jaws@ezfn.dev"
+* Login with your EZFN login but after the ``@`` put ``ezfn.net`` for e.g "Jaws@ezfn.net"
