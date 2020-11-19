@@ -27,7 +27,7 @@ In this Guide you'll find out how to setup
       - [Pak Modifier](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Paks)
       - [Universal Unreal Engine 4 Unlocker commands](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/UUUClient/Console-Unlocker.txt)
 
-  - [FortTimeMachine.md](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/LawinFortTimeMachine.md) *Older version of Polaris*
+  - [FortTimeMachine.md](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/LawinFortTimeMachine.md) **Older version of Polaris**
     - [Mods]
       - [Universal Unreal Engine 4 Unlocker commands](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/UUUClient/Console-Unlocker.txt)
       - [Pak Modifier](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Paks)
