@@ -15,7 +15,7 @@ This is probaly your best chance of success to using Fortnite Time Machine becau
 * **Launcher** [Season 1, 2, 3, 4, 5: https://drive.google.com/open?id=1jjRBNCHozE0ABBErKPOFEGYoazdpEnzQ]
 * **LawinServer.exe** [https://github.com/PsychoPast/LawinServer/releases] Download the most recent version (The Very Top One)
 * **Dotnet-Runtime-3.1.5** [https://cdn.discordapp.com/attachments/679772336177545300/729408321769046026/dotnet-runtime-3.1.5-win-x64.exe]
-* **UUU305.zip** [https://mega.nz/file/kEhTSBDR#cg2H5ikROO9l-M7rf7n9VtONw5u5OktUYtF5hp6C-4o]
+* **UUU305.zip** [https://framedsc.github.io/GeneralGuides/universal_ue4_consoleunlocker.htm]
 * **7Zip, WinRar** any of those are fine to extract ``UUU305.zip``
 * **FortTimeMachine DLL** [https://drive.google.com/file/d/1qOvqqIQtIiALAAZYjyaezNLhMGUbBMZF/view?usp=sharing]
 
