@@ -5,7 +5,7 @@
 This will be a guide on how to set up almost any third party application that deals with Epic Games or Fortnite!
 In this Guide you'll find out how to setup 
 * Cosmetic Private Servers
-* In-Game Private Server *With a Mod*
+* Getting In-Game *With a Mod*
 * Using past replays on old clients
 * Using a Command Line Version Of The Epic Games Launcher
 
