@@ -17,20 +17,20 @@ In this Guide you'll find out how to setup
   - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md) **Working**
     - [Website](https://ezfn.net)
   - [Neonitev2](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/NeoNite/README.md)
-- [In-Game Private Server]
+  - [Lawin](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Lawin) **Meant to be used on older versions**
+    - [Version-Downloads](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Version-Downloads.md)
+    - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
+    - [Launchers](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Launchers.md)
+- [Mods to get In-Game]
   - [Polaris](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Polaris/README.md) **BTW I WAS BANNED FROM THAT DISCORD IF YOU HAVE DETAILS ON THE LATEST CHANGES DM ME OR MAKE A PULL REQUEST**
     - [Mods]
       - [Pak Modifier](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Paks)
       - [Universal Unreal Engine 4 Unlocker commands](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/UUUClient/Console-Unlocker.txt)
 
-  - [FortTimeMachine.md](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/LawinFortTimeMachine.md)
+  - [FortTimeMachine.md](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/LawinFortTimeMachine.md) *Older version of Polaris*
     - [Mods]
       - [Universal Unreal Engine 4 Unlocker commands](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/UUUClient/Console-Unlocker.txt)
       - [Pak Modifier](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Paks)
-  - [Lawin](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Lawin)
-    - [Version-Downloads](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Version-Downloads.md)
-    - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
-    - [Launchers](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Launchers.md)
 
 **Below this are addons to the #Products**
 - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
