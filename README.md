@@ -12,7 +12,7 @@ In this Guide you'll find out how to setup
 ## Table of Contents
 - [Launcher]
 - [EGL3 **WAITING FOR RELEASE**]
-- [Legendary](https://github.com/Jawschamp/Non-Official-Epic-Games-products/blob/master/Legendary/README.md) **I WILL LIKELY TRY TO USE LEGENDARY FOR INSTALLING FORTNITE VERSIONS NOW AS IT'S LESS SKETCHY**
+- [Legendary](https://github.com/Jawschamp/Non-Official-Epic-Games-products/blob/master/Legendary/README.md)
 - [Private Servers]
   - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md) **Working**
     - [Website](https://ezfn.net)
