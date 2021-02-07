@@ -16,7 +16,7 @@ In this Guide you'll find out how to setup
 - [Launcher]
   - EGL3 **WAITING FOR RELEASE (hince no link to project but as a place holder...? [EGL3.md](https://github.com/Jawschamp/Unofficial-Epic-Games-products/blob/master/EGL3/README.md))**
   - [Legendary](https://github.com/Jawschamp/Non-Official-Epic-Games-products/blob/master/Legendary/README.md) <img src="https://repository-images.githubusercontent.com/249938026/80b18f80-96c7-11ea-9183-0a8c96e7cada" alt="Legendary" height="20" />
-- [Private Servers]
+- [Private Cosmetic Servers]
   - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md) <img src="https://avatars.githubusercontent.com/u/56506141?s=460&u=47bf97406a5c41e2ea190fd0892d6be99c8ef3de&v=4" alt="EZFN.DEV" height="20"> **May not work because of Epic's recent request**
   - [Neonitev2](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/NeoNite/README.md) <img src="https://cdn.discordapp.com/icons/703690937074974761/a_b29164c2cbb5e21e6ebf436e8aafc2eb.webp?size=256" alt="Neonitev2" height="20"> **May not work because of Epic's recent request**
 - [In-Game MOD]
