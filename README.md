@@ -7,7 +7,7 @@ In this Guide you'll find out how to setup
 * Cosmetic Private Servers
 * In-Game Private Server *With a Mod*
 * Using past replays on old clients
-* Using a Command Line Version of the Epic Games Launcher called [Legendary](https://github.com/Jawschamp/Unofficial-Epic-Games-products/blob/master/Legendary/README.md) or a Fortnite focused Launcher cvalled EGL3 (**Waiting for release**)
+* Using a Command Line Version of the Epic Games Launcher called [Legendary](https://github.com/Jawschamp/Unofficial-Epic-Games-products/blob/master/Legendary/README.md) or a Fortnite focused Launcher called EGL3 (**Waiting for release**)
 
 ## Table of Contents
 - [Launcher]
