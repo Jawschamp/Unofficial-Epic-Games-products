@@ -11,8 +11,8 @@ In this Guide you'll find out how to setup
 
 ## Table of Contents
 - [Launcher]
-- [EGL3 **WAITING FOR RELEASE**]
-- [Legendary](https://github.com/Jawschamp/Non-Official-Epic-Games-products/blob/master/Legendary/README.md)
+  - EGL3 **WAITING FOR RELEASE (hince no link)**
+  - [Legendary](https://github.com/Jawschamp/Non-Official-Epic-Games-products/blob/master/Legendary/README.md)
 - [Private Servers]
   - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md) **Working**
     - [Website](https://ezfn.net)
