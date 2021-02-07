@@ -2,6 +2,9 @@
 
 # NOTE: This project is not Affiliated, Associated, Authorized, Endorsed by, or in any way officially connected with Epic Games hence the name of the project
 
+# Second Note: This "Project" will only hold work that I have deemed worth writing about
+
+# Third and final Note for now...: **Epic is now taking action against any private server that contains Cosmetics so most "Products" may not work** 
 This will be a guide on how to set up almost any third party application that deals with Epic Games or Fortnite!
 In this Guide you'll find out how to setup 
 * Cosmetic Private Servers
@@ -15,7 +18,7 @@ In this Guide you'll find out how to setup
   - [Legendary](https://github.com/Jawschamp/Non-Official-Epic-Games-products/blob/master/Legendary/README.md)
 - [Private Servers]
   - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md)
-  - [Neonitev2](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/NeoNite/README.md)
+  - [Neonitev2](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/NeoNite/README.md) **May not work because of Epic's recent request**
 - [In-Game Private Server]
   - [Polaris](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Polaris/README.md) **BTW I WAS BANNED FROM THAT DISCORD IF YOU HAVE DETAILS ON THE LATEST CHANGES DM ME OR MAKE A PULL REQUEST**
     - [Mods]
