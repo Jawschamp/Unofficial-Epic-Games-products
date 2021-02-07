@@ -16,11 +16,10 @@ In this Guide you'll find out how to setup
 - [Launcher]
   - EGL3 **WAITING FOR RELEASE (hince no link)**
   - [Legendary](https://github.com/Jawschamp/Non-Official-Epic-Games-products/blob/master/Legendary/README.md) <img src="https://repository-images.githubusercontent.com/249938026/80b18f80-96c7-11ea-9183-0a8c96e7cada" alt="Legendary" height="20" />
-
 - [Private Servers]
   - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md) <img src="https://avatars.githubusercontent.com/u/56506141?s=460&u=47bf97406a5c41e2ea190fd0892d6be99c8ef3de&v=4" alt="EZFN.DEV" height="20">
   - [Neonitev2](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/NeoNite/README.md) **May not work because of Epic's recent request**
-- [In-Game Private Server]
+- [In-Game MOD]
   - [Polaris](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Polaris/README.md) **BTW I WAS BANNED FROM THAT DISCORD IF YOU HAVE DETAILS ON THE LATEST CHANGES DM ME OR MAKE A PULL REQUEST**
     - [Mods]
       - [Pak Modifier](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Paks)
@@ -34,6 +33,7 @@ In this Guide you'll find out how to setup
     - [Version-Downloads](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Version-Downloads.md)
     - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
     - [Launchers](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Launchers.md)
+- [Lobby Bots]
 
 **Below this are addons to the #Products**
 - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
