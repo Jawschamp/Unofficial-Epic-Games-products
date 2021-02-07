@@ -4,7 +4,7 @@
 
 # Second Note: This "Project" will only hold work that I have deemed worth writing about
 
-# Third and final Note for now...: **Epic is now taking action against any private server that contains Cosmetics so most "Products" may not work** 
+# Third and final Note for now...: **Epic is now taking action against any private server that contain Cosmetics so most Cosmetic Private Server may not work** 
 This will be a guide on how to set up almost any third party application that deals with Epic Games or Fortnite!
 In this Guide you'll find out how to setup 
 * Cosmetic Private Servers
