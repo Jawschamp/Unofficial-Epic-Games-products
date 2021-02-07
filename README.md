@@ -21,9 +21,6 @@ In this Guide you'll find out how to setup
   - [Neonitev2](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/NeoNite/README.md) <img src="https://cdn.discordapp.com/icons/703690937074974761/a_b29164c2cbb5e21e6ebf436e8aafc2eb.webp?size=256" alt="Neonitev2" height="20"> **May not work because of Epic's recent request**
 - [In-Game MOD]
   - [Polaris](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Polaris/README.md) **BTW I WAS BANNED FROM THAT DISCORD IF YOU HAVE DETAILS ON THE LATEST CHANGES DM ME OR MAKE A PULL REQUEST**
-    - [Mods]
-      - [Pak Modifier](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Paks)
-      - [Universal Unreal Engine 4 Unlocker commands](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/UUUClient/Console-Unlocker.txt)
   - [Lawin](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Lawin)
     - [Version-Downloads](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Version-Downloads.md)
     - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
