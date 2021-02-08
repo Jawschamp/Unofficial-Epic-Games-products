@@ -1,6 +1,8 @@
 # EZFN Private Server
 # Why use EZFN
 * EZFN Launcher allows you to still play the regular game with out modifying your game something that most other Private Server's require to work!
+* Allows going in-game with a mod released by the Rift team (with skins if you modify some things)
+* Allows a few modifications that Rift has
 # Steps
 * Download the current version of Fortnite
 * Download Launcher [here](https://github.com/EZFNDEV/FNPrivateServer/releases/latest/download/EZFNLauncher.zip)
