@@ -2,9 +2,13 @@
 
 ### NOTE: This project is not Affiliated, Associated, Authorized, Endorsed by, or in any way officially connected with Epic Games hence the name of the project
 
-#### Second Note: This "Project" will only hold work that I have deemed worth writing about. Also I will be taking things out if there is a better version/product
+### Second NOTE: This "Project" will only hold work that I have deemed worth writing about. Also I will be taking things out if there is a better version/product
 
-### Third and final Note for now...: **Epic is now taking action against any private server that contains Cosmetics so most Cosmetic Private Servers may not work** 
+### Third NOTE: **Epic is now taking action against any private server that contains Cosmetics so most Cosmetic Private Servers may not work**
+
+### Yet another NOTE: I will not be posting anything that's been shut down by Magmareef aka *Epic Employee** even if the project still either works or is still being developed for obvious reasons... which of course there arn't any... 😳
+
+### Lastly if there is a project on this list that must be taken down Magmareef you have my Discord :/...
 This will be a guide on how to set up almost any third party application that deals with Epic Games or Fortnite!
 In this Guide you'll find out how to setup 
 * Cosmetic Private Servers
@@ -29,7 +33,11 @@ In this Guide you'll find out how to setup
 - Lobby Bots
 
 - Tools
-  - **[Replay Packet Tool](https://github.com/EZFNDEV/FortnitePacketReplay)**
+  - [Replay Packet Tool](https://github.com/EZFNDEV/FortnitePacketReplay) | This tool allows you the ability to well.. replay network packates 
+  - [UEManifestReader](https://github.com/EZFNDEV/UEManifestReader) | This tool is able to get Manifest of the current version of Fortnite! It provides many manifests for multiple devices
+  - [FModule](https://github.com/iAmAsval/FModel) <img src="https://camo.githubusercontent.com/d66bda39a1741a001b2bc99e1646cc570477a4267cda33ab11571a4628900c90/68747470733a2f2f666d6f64656c2e6170702f696d616765732f666d6f64656c2f666d6f64656c2e69636f" alt="FModule" height="20" /> created by [iAmAsval](https://github.com/iAmAsval) <img src="https://avatars.githubusercontent.com/u/26126862?s=460&u=fce7cc1607a0ee909fca8a8aea92f65fbf140e01&v=4" alt="iAmAsval" height="20" />
+
+- APIs
 
 **Below this are addons to the #Products** **Polaris works with everything below**
 - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
