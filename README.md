@@ -35,10 +35,6 @@ In this Guide you'll find out how to setup
 
 - APIs
 
-- Extras
-  - [Version-Downloads](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Version-Downloads.md)
-  - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
-  - [Launchers](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Launchers.md)
 **Below this are addons to the #Products** **Polaris works with everything below**
 - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
 - [Version-Downloads](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Version-Downloads.md)
