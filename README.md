@@ -1,14 +1,12 @@
-# Unofficial-Epic-Games-products
+## NOTE: This project is not Affiliated, Associated, Authorized, Endorsed by, or in any way officially connected with Epic Games hence the name of the project
 
-### NOTE: This project is not Affiliated, Associated, Authorized, Endorsed by, or in any way officially connected with Epic Games hence the name of the project
+## Second NOTE: This "Project" will only hold work that I have deemed worth writing about. Also I will be taking things out if there is a better version/product
 
-### Second NOTE: This "Project" will only hold work that I have deemed worth writing about. Also I will be taking things out if there is a better version/product
+## Third NOTE: **Epic is now taking action against any private server that contains Cosmetics so most Cosmetic Private Servers may not work**
 
-### Third NOTE: **Epic is now taking action against any private server that contains Cosmetics so most Cosmetic Private Servers may not work**
+## Yet another NOTE: I will not be posting anything that's been shut down by Magmareef aka *Epic Employee** even if the project still either works or is still being developed for obvious reasons... which of course there arn't any... 😳
 
-### Yet another NOTE: I will not be posting anything that's been shut down by Magmareef aka *Epic Employee** even if the project still either works or is still being developed for obvious reasons... which of course there arn't any... 😳
-
-### Lastly if there is a project on this list that must be taken down Magmareef you have my Discord :/...
+## Lastly if there is a project on this list that must be taken down Magmareef you have my Discord :/...
 This will be a guide on how to set up almost any third party application that deals with Epic Games or Fortnite!
 In this Guide you'll find out how to setup 
 * Cosmetic Private Servers
