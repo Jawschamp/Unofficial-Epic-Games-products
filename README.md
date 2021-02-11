@@ -24,19 +24,21 @@ In this Guide you'll find out how to setup
   - [Neonitev2](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/NeoNite/README.md) <img src="https://cdn.discordapp.com/icons/703690937074974761/a_b29164c2cbb5e21e6ebf436e8aafc2eb.webp?size=256" alt="Neonitev2" height="20"> **May not work because of Epic's recent request**
 - In-Game MOD
   - [Polaris](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Polaris/README.md) **BTW I WAS BANNED FROM THAT DISCORD IF YOU HAVE DETAILS ON THE LATEST CHANGES DM ME OR MAKE A PULL REQUEST**
-  - [Lawin](https://github.com/Jawschamp/FortnitePrivateServersGuide/tree/master/Lawin)
-    - [Version-Downloads](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Version-Downloads.md)
-    - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
-    - [Launchers](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Launchers.md)
+  
+    
 - Lobby Bots
 
 - Tools
-  - [Replay Packet Tool](https://github.com/EZFNDEV/FortnitePacketReplay) | This tool allows you the ability to well.. replay network packates 
-  - [UEManifestReader](https://github.com/EZFNDEV/UEManifestReader) | This tool is able to get Manifest of the current version of Fortnite! It provides many manifests for multiple devices
-  - [FModule](https://github.com/iAmAsval/FModel) <img src="https://camo.githubusercontent.com/d66bda39a1741a001b2bc99e1646cc570477a4267cda33ab11571a4628900c90/68747470733a2f2f666d6f64656c2e6170702f696d616765732f666d6f64656c2f666d6f64656c2e69636f" alt="FModule" height="20" /> created by [iAmAsval](https://github.com/iAmAsval) <img src="https://avatars.githubusercontent.com/u/26126862?s=460&u=fce7cc1607a0ee909fca8a8aea92f65fbf140e01&v=4" alt="iAmAsval" height="20" />
+  - [Replay Packet Tool](https://github.com/EZFNDEV/FortnitePacketReplay) created by [EZFNDEV](https://github.com/EZFNDEV/) <img src="https://avatars.githubusercontent.com/u/56506141?s=460&u=47bf97406a5c41e2ea190fd0892d6be99c8ef3de&v=4" alt="EZFN.DEV" height="20"> | This tool allows you the ability to well.. replay network packates 
+  - [UEManifestReader](https://github.com/EZFNDEV/UEManifestReader) created by [EZFNDEV](https://github.com/EZFNDEV/) <img src="https://avatars.githubusercontent.com/u/56506141?s=460&u=47bf97406a5c41e2ea190fd0892d6be99c8ef3de&v=4" alt="EZFN.DEV" height="20"> | This tool is able to get Manifest of the current version of Fortnite! It provides many manifests for multiple devices
+  - [FModule](https://github.com/iAmAsval/FModel) <img src="https://camo.githubusercontent.com/d66bda39a1741a001b2bc99e1646cc570477a4267cda33ab11571a4628900c90/68747470733a2f2f666d6f64656c2e6170702f696d616765732f666d6f64656c2f666d6f64656c2e69636f" alt="FModule" height="20" /> created by [iAmAsval](https://github.com/iAmAsval) <img src="https://avatars.githubusercontent.com/u/26126862?s=460&u=fce7cc1607a0ee909fca8a8aea92f65fbf140e01&v=4" alt="iAmAsval" height="20" /> | FModule is a tool that allows you to datamine pak contents. It is very feature rich, and has been deemed a leakers paradise. 
 
 - APIs
 
+- Extras
+  - [Version-Downloads](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Version-Downloads.md)
+  - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
+  - [Launchers](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Launchers.md)
 **Below this are addons to the #Products** **Polaris works with everything below**
 - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
 - [Version-Downloads](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/Version-Downloads.md)
