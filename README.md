@@ -27,6 +27,7 @@ In this Guide you'll find out how to setup
   
     
 - Lobby Bots
+  - [ReconBot](https://reconbot.net) <img src="https://reconbot.net/logo512-nobg.png" alt="ReconBot" height="20"> created by [This Nils](https://github.com/ThisNils) | Start lobby bots through discord
 
 - Tools
   - [Replay Packet Tool](https://github.com/EZFNDEV/FortnitePacketReplay) created by [EZFNDEV](https://github.com/EZFNDEV/) <img src="https://avatars.githubusercontent.com/u/56506141?s=460&u=47bf97406a5c41e2ea190fd0892d6be99c8ef3de&v=4" alt="EZFN.DEV" height="20"> | This tool allows you the ability to well.. replay network packates 
