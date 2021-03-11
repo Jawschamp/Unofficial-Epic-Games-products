@@ -23,7 +23,7 @@ In this Guide you'll find out how to setup
   - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md) <img src="https://avatars.githubusercontent.com/u/56506141?s=460&u=47bf97406a5c41e2ea190fd0892d6be99c8ef3de&v=4" alt="EZFN.DEV" height="20"> **New ZIP put in the Discord looks to fix all problems we'll see how Magma responds.**
   - [Neonitev2](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/NeoNite/README.md) <img src="https://cdn.discordapp.com/icons/703690937074974761/a_b29164c2cbb5e21e6ebf436e8aafc2eb.webp?size=256" alt="Neonitev2" height="20"> **May not work because of Epic's recent request**
 - In-Game MOD
-  - [Polaris](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Polaris/README.md) **BTW I WAS BANNED FROM THAT DISCORD IF YOU HAVE DETAILS ON THE LATEST CHANGES DM ME OR MAKE A PULL REQUEST**
+  - [Neonite++](https://github.com/Jawschamp/Unofficial-Epic-Games-products/blob/master/NeoNite%2B%2B/README.md) <img src="https://cdn.discordapp.com/attachments/719576626953846824/818487085010387004/Ev9nMKnXIAA16rC.png" alt="Neonite++" height="20"> 
   
     
 - Lobby Bots
