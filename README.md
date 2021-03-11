@@ -34,8 +34,11 @@ In this Guide you'll find out how to setup
   - [UEManifestReader](https://github.com/EZFNDEV/UEManifestReader) created by [EZFNDEV](https://github.com/EZFNDEV/) <img src="https://avatars.githubusercontent.com/u/56506141?s=460&u=47bf97406a5c41e2ea190fd0892d6be99c8ef3de&v=4" alt="EZFN.DEV" height="20"> | This tool is able to get Manifest of the current version of Fortnite! It provides many manifests for multiple devices
   - [FModule](https://github.com/iAmAsval/FModel) <img src="https://camo.githubusercontent.com/d66bda39a1741a001b2bc99e1646cc570477a4267cda33ab11571a4628900c90/68747470733a2f2f666d6f64656c2e6170702f696d616765732f666d6f64656c2f666d6f64656c2e69636f" alt="FModule" height="20" /> created by [iAmAsval](https://github.com/iAmAsval) <img src="https://avatars.githubusercontent.com/u/26126862?s=460&u=fce7cc1607a0ee909fca8a8aea92f65fbf140e01&v=4" alt="iAmAsval" height="20" /> | FModule is a tool that allows you to datamine pak contents. It is very feature rich, and has been deemed a leakers paradise. 
 
+- Libraries
+  - [Fortnitepy](https://github.com/Terbau/fortnitepy) created by [Terbau](https://github.com/Terbau) <img src="https://avatars.githubusercontent.com/u/40792825?s=460&u=7ccce9275624e0cf14420b8cb22225b1397352ee&v=4" height="20"> | An asynchronous library for interacting with Fortnite and EpicGames' API and XMPP services made for <img src="https://cdn.discordapp.com/emojis/813909686947938334.png?v=1" height="20">.
+  - [FNBR.js](https://github.com/fnbrjs/fnbr.js) created by [This Nils](https://github.com/ThisNils) <img src="https://avatars.githubusercontent.com/u/59409978?s=460&u=06aee1d5b9da27d58d03b5a6ce1547a0481d8a23&v=4" height="20"> | A library to interact with Fortnite's HTTP and XMPP services made for <img src="https://nodejs.org/static/images/logo.svg" height="20">
+ 
 - APIs
-  - [Fortnitepy](https://github.com/Terbau/fortnitepy) created by [Terbau](https://github.com/Terbau) <img src="https://avatars.githubusercontent.com/u/40792825?s=460&u=7ccce9275624e0cf14420b8cb22225b1397352ee&v=4" height="20"> An asynchronous library for interacting with Fortnite and EpicGames' API and XMPP services made for <img src="https://cdn.discordapp.com/emojis/813909686947938334.png?v=1" height="20">.
 
 # Extra
 - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
