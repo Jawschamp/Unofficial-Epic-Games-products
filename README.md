@@ -39,6 +39,8 @@ In this Guide you'll find out how to setup
   - [FNBR.js](https://github.com/fnbrjs/fnbr.js) created by [This Nils](https://github.com/ThisNils) <img src="https://avatars.githubusercontent.com/u/59409978?s=460&u=06aee1d5b9da27d58d03b5a6ce1547a0481d8a23&v=4" height="20"> | A library to interact with Fortnite's HTTP and XMPP services made for <img src="https://nodejs.org/static/images/logo.svg" height="20">
  
 - APIs
+  - Nitestats created by [Vastblast](https://twitter.com/VastBlastt) <img src="https://pbs.twimg.com/profile_images/1298354585527091202/iucrcNp0_400x400.jpg" height="20"> website [Nitestats.com](https://nitestats.com) <img src="https://cdn.discordapp.com/icons/447989053623762944/a_b0fb9afb42a2d0aa0e6329663ca0ae0b.png?size=4096" height="20">
+  - Fortnite-API created by the biggest dick in the world Officer#9999 website [Fortnite-api.com](http://fortnite-api.com) <img src="https://cdn.discordapp.com/emojis/819273554703941702.png?v=1" height="20">
 
 # Extra
 - [Replays](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/Lawin/FortTimeMachine/Replay/README.md)
