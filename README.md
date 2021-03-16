@@ -17,7 +17,7 @@ In this Guide you'll find out how to setup
 
 ## Table of Contents
 - Launcher
-  - EGL3 **WAITING FOR RELEASE (hince no link to project but as a place holder...? [EGL3.md](https://github.com/Jawschamp/Unofficial-Epic-Games-products/blob/master/EGL3/README.md))**
+  - EGL3 **WAITING FOR RELEASE (hince no link to project but as a place holder...? [EGL3.md](https://github.com/Jawschamp/Unofficial-Epic-Games-products/blob/master/EGL3/README.md))** <img src="https://cdn.discordapp.com/icons/821092961576157214/e1f54093f83db9d9089212179b997e93.webp?size=128" height="20">
   - [Legendary](https://github.com/Jawschamp/Non-Official-Epic-Games-products/blob/master/Legendary/README.md) <img src="https://repository-images.githubusercontent.com/249938026/80b18f80-96c7-11ea-9183-0a8c96e7cada" alt="Legendary" height="20" />
 - Private Cosmetic Servers
   - [EZFN](https://github.com/Jawschamp/FortnitePrivateServersGuide/blob/master/EZFN/README.md) <img src="https://avatars.githubusercontent.com/u/56506141?s=460&u=47bf97406a5c41e2ea190fd0892d6be99c8ef3de&v=4" alt="EZFN.DEV" height="20"> **New ZIP put in the Discord looks to fix all problems we'll see how Magma responds.**
