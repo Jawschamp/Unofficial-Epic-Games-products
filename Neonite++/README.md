@@ -1,5 +1,5 @@
 # Neonite++
-# Creator - [xkem0x](https://twitter.com/xkem0x) site - [neonite.dev](http://neonite.dev)
+# Creator - [xkem0x](https://twitter.com/xkem0x) site - [neonite.dev](http://neonite.dev) [Discord](https://discord.gg/neonite)
 # About/Features 
 - Neonite++ is the "biggest Fortnite modding project" to exist
 - Neonite++ is locally hosted on your machine meaning once you've downloaded the new update you may get it up and running and go in-game even before Fortninte turns the servers on (have fun trolling)!
