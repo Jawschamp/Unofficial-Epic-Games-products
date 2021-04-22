@@ -26,3 +26,6 @@ To download a specific Version of Fortnite do ``legendary install Fortnite --man
 Example of that is:
 ``legendary install Fortnite --manifest http://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir/k5ys7glx5bd3c57ec7b14db2bb69d44e16487a36.manifest``
 ![Manifest](https://cdn.discordapp.com/attachments/631678988582125588/758941091138633738/unknown.png)
+
+# Launch
+* To launch a game while authenticated do ``legendary launch [CodeNameOfGame]``
